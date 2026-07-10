@@ -12,6 +12,8 @@ architectural decisions.
 This benchmark measures that effect using **BAC: Behavioral Ambiguity
 Coefficient**. No alcohol is required or recommended.
 
+Inspired by [XKCD #323, "Ballmer Peak"](https://xkcd.com/323/).
+
 ## Methodology
 
 The harness runs one coding task repeatedly at increasing BAC levels. It
