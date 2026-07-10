@@ -1,0 +1,4 @@
+{
+  "name": "retry-client",
+  "prompt": "Implement request() in retry_client.py. Retry transient failures for idempotent HTTP methods only. A transient failure is a transport exception or a response with status 500, 502, 503, or 504. Return all other responses immediately. max_retries is the number of additional attempts after the first request. Preserve the existing public API and do not add dependencies."
+}
